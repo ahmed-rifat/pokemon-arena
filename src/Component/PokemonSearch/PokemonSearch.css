@@ -1,0 +1,6 @@
+.pokemon-body{
+    background-image: url("../../ashpokemon.jpg");
+    background-size: 100%;
+    background-position: left;
+    background-size:cover;
+}
