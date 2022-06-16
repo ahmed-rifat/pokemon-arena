@@ -1,3 +1,12 @@
-# Getting Started with Create React App
+# Live website Link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a Pokemon finding website [Live Website](https://pokemon-finding.netlify.app/)
+
+# Features
+ * search pokemon name and it will show details for each pokemon.
+
+# technology
+ * HTML
+ * CSS
+ * javascript
+ * reactJS
